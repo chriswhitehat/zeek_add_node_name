@@ -1,0 +1,5 @@
+[package]
+description = Adds cluser node name to conn log.
+tags = log, logging
+script_dir = scripts
+depends = zeek >=4.0
